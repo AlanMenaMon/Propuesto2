@@ -12,6 +12,3 @@ La aplicación funciona mediante los siguientes componentes:
 
 ## 📷 Documentación
 Captura de pantalla correspondiente al funcionamiento del programa:
-
-![Documentación del Ejercicio](Documments/fotoUno.jpeg)
-![Documentación del Ejercicio](Documments/fotoDos.jpeg)
